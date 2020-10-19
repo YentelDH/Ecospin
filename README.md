@@ -1,7 +1,7 @@
 # Ecospin
 Boilerplate MERN stack | New Media Development | Artevelde University of Applied Sciences
 
-## Built With
+# Built With
 
 - MongoDB
 - Express
