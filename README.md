@@ -1,14 +1,13 @@
 # Ecospin
 Boilerplate MERN stack | New Media Development | Artevelde University of Applied Sciences
 
-# Built With
+# Used techologies
 
-- MongoDB
-- Express
-- Node.js
-- React
+* MongoDB
+* Express
+* Node.js
+* React
 
-## Authors
-
-Philippe De Pauw - Waterschoot | [drdynscript](https://github.com/drdynscript)
-Yentel De Hauwere | [YentelDeHauwere](https://github.com/YentelDeHauwere)
+# Design
+## Visual design
+https://xd.adobe.com/view/e9e73b2f-3fca-458b-7bb7-a2ae5624db41-9fd6/
